@@ -1,0 +1,59 @@
+body
+{
+    background-color: coral;
+}
+h1
+{
+    color: rgb(23, 206, 54);
+    background-color: rgb(14, 133, 231);
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2
+{
+    color: rgb(206, 23, 151);
+    background-color: rgb(198, 231, 14); 
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3
+{
+    color: rgb(37, 214, 238);
+    background-color: rgb(173, 231, 14);
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#a
+{
+    color: rgb(23, 206, 54);
+    background-color: rgb(231, 94, 14);
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#b
+{
+    color: rgb(23, 206, 54);
+    background-color: rgb(14, 133, 231); 
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#c
+{
+    color: rgb(186, 233, 15);
+    background-color: rgb(231, 14, 133); 
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a
+{
+    color: rgb(206, 23, 32);
+    background-color: rgb(121, 150, 118); 
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

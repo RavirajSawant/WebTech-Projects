@@ -1,0 +1,59 @@
+#a
+{
+    background-color: cadetblue;
+    padding: 10px;
+    height: 700px;
+    width: 500px;
+    margin-left: 500px;
+}
+#b
+{
+    background-color: whitesmoke;
+    margin-left: 50px;
+    height: 700px;
+    width: 400px;
+}
+img
+{
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+#d
+{
+    font-size: 30px;
+    color: orangered;
+    text-align: center;
+}
+#c
+{
+    text-align: center;
+  
+}
+#e
+{
+    text-align: center;
+   
+}
+#f
+{
+    padding-left: 100px;
+    color: orangered;
+}
+#g
+{
+    padding-left: 40px;
+    color: orangered;
+}
+#h
+{
+   padding-left: 50px;
+   color: orangered;
+}
+#i
+{
+    padding-left: 50px;
+    color: orangered;
+}

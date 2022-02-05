@@ -1,0 +1,22 @@
+#h
+{
+    background-color: aqua;
+}
+body
+{
+    font-size: 20px;
+}
+p
+{
+    text-align: right;
+}
+#a
+{
+    text-align: right;
+}
+#b
+{
+    color: white;
+    background-color: black;
+    text-align: center;
+}

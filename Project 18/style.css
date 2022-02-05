@@ -1,0 +1,36 @@
+.box
+{
+    background-color: aqua;
+    height: 3000px;
+    width: 1400;
+    padding:  10px 145px 10px 145px;
+    box-sizing: border-box;
+}
+.box11
+{
+    background-color: chartreuse;
+    height: 500px;
+    width: 300px;
+    display: inline-block;
+    margin: 25px 50px 25px 50px;
+}
+#a
+{
+    height: 200px;
+    width: 250px;
+    margin: 20px auto;
+}
+img
+{
+    width: 250px;
+    height: 200px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    background-color: orangered;
+}
+b{
+    color: orangered;
+    background-color: black;
+}

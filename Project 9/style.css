@@ -1,0 +1,11 @@
+fieldset
+{
+    display: inline-block;
+}
+#a
+{
+    background-color: darkcyan;
+    color: white;
+    height: 30px;
+    width: 174px;
+}

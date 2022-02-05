@@ -1,0 +1,97 @@
+.box
+{
+    background-color: aqua;
+    height: 720px;
+    width: 10px auto;
+    padding: 40px;
+    box-sizing: border-box;   
+}
+.box1
+{
+    height: 500px;
+    width: 700px;
+    background-color: white;
+    margin: auto;
+    padding-top: 30px;
+    flex-wrap: wrap;
+    background-image: url(./Images/Screenshot\ \(217\).png);
+    background-repeat: no-repeat;
+    background-size: 270px;
+}
+#a
+{
+    position: relative;
+    left: 335px;
+}
+#b
+{
+   position: absolute;
+   left: 750px;
+   width: 300px;
+   height: 30px;
+}
+#c
+{
+    position: relative;
+    left: 335px;
+}
+#d
+{
+   position: absolute;
+   left: 750px;
+   width: 300px;
+   height: 30px;
+}
+#e
+{
+    position: relative;
+    left: 335px;
+}
+#f
+{
+   position: absolute;
+   left: 750px;
+   width: 300px;
+   height: 40px;
+   background-color: orangered;
+   color: white;
+   border: none;
+}
+#i
+{
+    position: absolute;
+   left: 1000px;
+   width: 300px;
+   height: 30px;
+}
+#j
+{
+    position: relative;
+    left: 335px;
+}
+#k
+{
+    position: relative;
+    left: 470px;
+}
+#g
+{
+    position: absolute;
+   left: 750px;
+   width: 300px;
+   height: 40px;
+   background-color: white;
+   color: blue;
+   border: none;
+   box-shadow: 0px 1px 8px 2px grey;
+}
+#h
+{
+    position: relative;
+    left: 370px;
+}
+.z
+{
+    border: none;
+    border-bottom: 1px solid black;
+}

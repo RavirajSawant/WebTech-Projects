@@ -1,0 +1,2 @@
+*.HTML linguist-detectable=true
+*.SCSS linguist-detactable=false
